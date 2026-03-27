@@ -8,8 +8,8 @@ Eine persönliche Desktop-App zur Verwaltung von Einnahmen, Ausgaben und Ersparn
 
 |Betriebssystem|Datei|
 |-|-|
-|Windows|`Finanzuebersicht.exe` – direkt starten|
-|macOS|`Finanzuebersicht-macOS.zip` – entpacken, dann Rechtsklick → Öffnen|
+|Windows|`Finanzuebersicht.exe` – In gewünschten Ordner legen → direkt starten|
+|macOS|`Finanzuebersicht-macOS.zip` –In gewünschten Ordner legen →  entpacken, dann Rechtsklick → Öffnen|
 
 ## Features
 
