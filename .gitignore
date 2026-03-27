@@ -1,0 +1,19 @@
+# Persönliche Daten – niemals hochladen
+finanz_daten.json
+finanz_einstellungen.json
+backups/
+Backup Program/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.spec
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
